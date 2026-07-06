@@ -66,13 +66,15 @@ U-Net architecture with bottleneck classification Adaptive image enhancement pro
 
 ## Paper
 
-Unified Wavelet U-Net with Bottleneck Classification for Adaptive Image Enhancement in Autonomous Driving Systems  
-Published at INASS 2026
+### **Unified Wavelet U-Net with Bottleneck Classification for Adaptive Image Enhancement in Autonomous Driving Systems**
+
+*Published at INASS 2026*
+📥 [Download Paper](https://inass.org/wp-content/uploads/2026/03/2026063007-2.pdf)
 ---
 
 ## Contributors
-
-- Dr. Matheel E. Abdulmunim  
+- Yousif N. Abbas (University of Technology, Baghdad)  
+- Dr. Matheel E. Abdulmunim (University of Technology, Baghdad)    
 - Dr. Nada H. Ali (University of Technology, Baghdad)  
 - Prof. Ismail A. Mageed (University of Bradford, UK)  
 - Prof. Musheer Ahmad (Jamia Millia Islamia, India)  
@@ -81,8 +83,10 @@ Published at INASS 2026
 
 ## Contact
 
-Yousif N. Abbas  
-Baghdad, Iraq <br> Email: me@yousif.app
+**Yousif N. Abbas**  
+Baghdad, Iraq  
+me@yousif.app  
+
 ---
 
 ## Citation
