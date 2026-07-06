@@ -66,9 +66,8 @@ U-Net architecture with bottleneck classification Adaptive image enhancement pro
 
 ## Paper
 
-**Unified Wavelet U-Net with Bottleneck Classification for Adaptive Image Enhancement in Autonomous Driving Systems**  
-Published at **INASS 2026**
-https://inass.org/wp-content/uploads/2026/03/2026063007-2.pdf
+Unified Wavelet U-Net with Bottleneck Classification for Adaptive Image Enhancement in Autonomous Driving Systems  
+Published at INASS 2026
 ---
 
 ## Contributors
